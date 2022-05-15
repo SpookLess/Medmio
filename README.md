@@ -1,1 +1,3 @@
-# medmio
+# Hola lector!
+
+Bienvenido a Medmio.
